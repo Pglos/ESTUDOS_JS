@@ -12,3 +12,13 @@ OPERADORES DE COMPARAÇÃO
 -> ( !== ) - DIFRENTE ESTRITO (VALOR E TIPO)
 */
 
+/* AULA 2 
+
+OPERADORES LOGICOS
+
+&& -> AND -> E 
+|| -> OR  -> OU 
+!  -> NOT -> NAO 
+
+*/
+
