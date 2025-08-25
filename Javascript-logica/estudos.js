@@ -46,7 +46,7 @@ if (hora >= 6 && hora <= 11) {
 //  ? : 
 */ 
 
-/*
+/* 
 const pontuacaoUsuario = 1000;
 
 // condicao ? 'valor verdadeiro' : 'valor para falso';
