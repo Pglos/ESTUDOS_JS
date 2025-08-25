@@ -41,4 +41,27 @@ if (hora >= 6 && hora <= 11) {
 
 */
 
+/* AULA 4
+
+//  ? : 
+*/ 
+
+/*
+const pontuacaoUsuario = 1000;
+
+// condicao ? 'valor verdadeiro' : 'valor para falso';
+
+const nivelUsuario = pontuacaoUsuario >= 1000 ? 'Usuario VIP' : 'Usuario Normal';
+
+
+/* if(pontuacaoUsuario >= 1000){
+    console.log('Usuario vip');
+} else {
+    console.log('Usuario normal')
+}
+*/
+
+
+
+
 
